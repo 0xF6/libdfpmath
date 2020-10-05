@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libdfpmath", "src\libdfpmath.csproj", "{35A14A93-CAAB-4D21-BA7D-75F46720DDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A14A93-CAAB-4D21-BA7D-75F46720DDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A14A93-CAAB-4D21-BA7D-75F46720DDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A14A93-CAAB-4D21-BA7D-75F46720DDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A14A93-CAAB-4D21-BA7D-75F46720DDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED518A7F-C329-459E-97D0-6B7D4E62AFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED518A7F-C329-459E-97D0-6B7D4E62AFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED518A7F-C329-459E-97D0-6B7D4E62AFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED518A7F-C329-459E-97D0-6B7D4E62AFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD37DBCD-F4EA-4A10-87B7-013F3A66CDD1}
+	EndGlobalSection
+EndGlobal

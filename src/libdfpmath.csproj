@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+		    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		    <RootNamespace>invocative.mathm</RootNamespace>
+		    <PackageId>invocative.decimal.math</PackageId>
+		    <Authors>Invocative Studio</Authors>
+		    <Product>DFP Math</Product>
+		    <Copyright>Invocative Studio (C) 2020</Copyright>
+		    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+		    <PackageProjectUrl>https://github.com/invocative/libdfpmath</PackageProjectUrl>
+		    <PackageIcon>icon.png</PackageIcon>
+		    <RepositoryUrl>https://github.com/invocative/libdfpmath</RepositoryUrl>
+		    <RepositoryType>git</RepositoryType>
+		    <PackageTags>decimal, math, trigonometry</PackageTags>
+		    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="..\icon.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+      <None Include="./../icon.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
+
+</Project>
