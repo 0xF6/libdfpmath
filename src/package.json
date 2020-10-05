@@ -1,0 +1,17 @@
+{
+  "name": "com.invocative.libdfpmath",
+  "version": "1.0.0",
+  "displayName": "libdfpmath",
+  "description": "Library for decimal math",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+ "keywords": [
+    "math",
+    "decimal"
+  ],
+  "author": {
+    "name": "Invocative Studio",
+    "email": "support@invocative.studio",
+    "url": "https://invocative.studio"
+  }
+}
